@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.27c7a5b3.css",
-    "main.js": "/Portfolio/static/js/main.41660cd9.js",
+    "main.css": "/Portfolio/static/css/main.2d494ffd.css",
+    "main.js": "/Portfolio/static/js/main.73334e34.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/b-skills.jpg": "/Portfolio/static/media/b-skills.60294e8c5e681f9c1185.jpg",
     "static/media/logo.png": "/Portfolio/static/media/logo.f4b105c7f7c99bcea1a6.png",
     "static/media/Develott.png": "/Portfolio/static/media/Develott.ddb91847061299d0c01b.png",
     "static/media/coing.png": "/Portfolio/static/media/coing.9e59e829f5cca21e3a2d.png",
+    "static/media/CV-CharlélieLataste.pdf": "/Portfolio/static/media/CV-CharlélieLataste.02614c7505eeb90aefaf.pdf",
     "static/media/audit.png": "/Portfolio/static/media/audit.1647533df58689923374.png",
-    "static/media/CV-CharlelieLataste.pdf": "/Portfolio/static/media/CV-CharlelieLataste.6930007799a7161451dc.pdf",
     "static/media/Postegres.png": "/Portfolio/static/media/Postegres.a7fa39912c91e079e90b.png",
     "static/media/ShareTech-Regular.ttf": "/Portfolio/static/media/ShareTech-Regular.c0baac7e6709b68d7a21.ttf",
     "static/media/contact.png": "/Portfolio/static/media/contact.1c432a6b89e4c3524c99.png",
@@ -26,12 +26,12 @@
     "static/media/JS.png": "/Portfolio/static/media/JS.3dfb665e058d08c99f28.png",
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio/index.html",
-    "main.27c7a5b3.css.map": "/Portfolio/static/css/main.27c7a5b3.css.map",
-    "main.41660cd9.js.map": "/Portfolio/static/js/main.41660cd9.js.map",
+    "main.2d494ffd.css.map": "/Portfolio/static/css/main.2d494ffd.css.map",
+    "main.73334e34.js.map": "/Portfolio/static/js/main.73334e34.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27c7a5b3.css",
-    "static/js/main.41660cd9.js"
+    "static/css/main.2d494ffd.css",
+    "static/js/main.73334e34.js"
   ]
 }
